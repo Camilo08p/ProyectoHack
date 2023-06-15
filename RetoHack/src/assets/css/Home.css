@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+h2{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.Titulo{
+    margin-top: 90px;
+    display: grid;
+    justify-content: center;
+
+}
+.contendorMapa{
+    margin-top: 30px;
+    display: grid;
+    justify-content: center;
+
+}
+.flecha {
+
+    height: 80px;
+    width: 80px;
+    position: fixed;
+    bottom: 1px;
+    right: 1px;
+}
+.DivGen{
+    margin-top: 100px;
+}
+.mapa{
+    width: 400px;
+}
